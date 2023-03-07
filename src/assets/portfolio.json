@@ -1,0 +1,52 @@
+{
+    "sites": [
+        {
+            "id": 1,
+            "image": "headphonesSite",
+            "name": "Ecommerce Headphones Website",
+            "description": "Build an Ecommerce Headphones website using ReactJs that display products with their pictures, price and specifications, user can add or remove products to the cart and also increase or decrease productquantity as well.",
+            "site_link":"https://saadashraf123.github.io/new-headphones-website/",
+            "github_link": "https://github.com/saadashraf123/new-headphones-website"        
+        },
+        {
+            "id": 2,
+            "image": "weatherSite",
+            "name": "Weather App",
+            "description": "Build Worldwide Weather App using ReactJs that Can Display weather of current location and other places as well with the help of Weather API.",
+            "site_link":"https://saadashraf123.github.io/new-weather-app/",
+            "github_link": "https://github.com/saadashraf123/new-weather-app.git"        
+        },
+        {
+            "id": 3,
+            "image": "adminDashboardSite",
+            "name": "Admin Dashboard",
+            "description": "Made this Admin Dashboard with the help of syncfusion components and Reactjs. It includes 4 simple Apps (Calendar, Kanban, Editor, and Color Picker), and some table to show records which can be added, update and deleted.",
+            "site_link":"https://saadashraf123.github.io/admin-dashboard/",
+            "github_link": "https://github.com/saadashraf123/admin-dashboard.git"        
+        },
+        {
+            "id": 4,
+            "image": "blogSite",
+            "name": "Blog Website",
+            "description": "Build this amazing Blog website, in which the individual can create and update their account, and also post new blogs, update and delete older blogs and see others blog as well",
+            "site_link": "",
+            "github_link": "https://github.com/saadashraf123/BlogSite.git"
+        },
+        {
+            "id": 5,
+            "image": "budgetCalculatorSite",
+            "name": "Budget Calculator",
+            "description": "I’ve made this amazing Budget Calculator through which you can keep track of your monthly expense aswell as insert and delete new records.",
+            "site_link":"https://saadashraf123.github.io/Budget-Calculator/",
+            "github_link": "https://github.com/saadashraf123/Budget-Calculator.git"        
+        },
+        {
+            "id": 6,
+            "image": "airlineSystemSite",
+            "name": "Airline Reservation System ",
+            "description": "Created a web Application that takes user input about the flight and show output according to the user! Frontend built with HTML, CSS, Bootstrap, JavaScript, and Backend with PHP and Database with MYSQLI.",
+            "site_link": "",
+            "github_link": "https://github.com/saadashraf123/Airline-Resrvation-System.git"        
+        }
+    ]
+}

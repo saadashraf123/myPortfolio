@@ -1,0 +1,84 @@
+{
+    "expertise": [
+        {
+            "id": 1,
+            "image": "react2",
+            "name": "React Js"      
+        },
+        {
+            "id": 2,
+            "image": "redux",
+            "name": "React Redux"     
+        },
+        {
+            "id": 3,
+            "image": "JavaScript",
+            "name": "JavaScript"     
+        },
+        {
+            "id": 4,
+            "image": "firebase",
+            "name": "Firebase"     
+        },
+        {
+            "id": 5,
+            "image": "mui",
+            "name": "Material UI"     
+        },
+        {
+            "id": 6,
+            "image": "typeScript",
+            "name": "TypeScript"     
+        },
+        {
+            "id": 7,
+            "image": "figma",
+            "name": "Figma"     
+        },
+        {
+            "id": 8,
+            "image": "html5",
+            "name": "HTML 5"     
+        },
+        {
+            "id": 9,
+            "image": "css3",
+            "name": "CSS 3"     
+        },
+        {
+            "id": 10,
+            "image": "Bootstrap",
+            "name": "Bootstrap"     
+        },
+        {
+            "id": 11,
+            "image": "node",
+            "name": "Node Js"     
+        },
+        {
+            "id": 12,
+            "image": "PHP",
+            "name": "PHP"     
+        },
+        {
+            "id": 13,
+            "image": "python",
+            "name": "Pyhthon"     
+        },
+        {
+            "id": 14,
+            "image": "jquery",
+            "name": "JQuery"     
+        },
+        {
+            "id": 15,
+            "image": "mySql",
+            "name": "My SQL"     
+        },
+        {
+            "id": 16,
+            "image": "jest",
+            "name": "Jest"     
+        }
+    ]
+}
