@@ -7,7 +7,8 @@ const Footer = () => {
     const typographyStyles = {
         color: "#ffff",
         opacity: "0.7",
-        marginBottom: "10px",
+        margin: "0 5%",
+        marginBottom: "20px",
         fontFamily: "Poppins",
         letterSpacing: "2px",
         fontSize: "12px",

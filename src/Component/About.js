@@ -7,7 +7,7 @@ const About = () => {
     const typographyStyles = {
         color: "#ffff",
         opacity: "0.8",
-        marginBottom: "20px",
+        marginBottom: "10px",
         fontFamily: "Ubuntu",
         letterSpacing: "2px",
         alignText: "center",
@@ -15,13 +15,14 @@ const About = () => {
     const aboutText = {
         display: "block",
         lineHeight: "8.5",
-        margin: "20% 20px",
+        margin: "10px",
     }
     const aboutPicture = {
         justifyContent: "center",
+        marginTop: "10px"
     }
     const Img = styled('img')({
-        maxWidth: '450px',
+        maxWidth: '250px',
         maxHeight: '500px',
         opacity: "0.8",
         backgroundColor: "white",
@@ -34,7 +35,7 @@ const About = () => {
             <hr style={{ background: "white", margin: "0px 30% 5% 30%" }}></hr>
             <Grid container spacing={2} columns={10}>
                 <Grid item md={5} xs={10}>
-                    <ListItem className='' style={aboutPicture}>
+                    <ListItem style={aboutPicture}>
                         <Img alt="profile" src={profile} />
                     </ListItem>
                 </Grid>
