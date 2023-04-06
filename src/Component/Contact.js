@@ -88,14 +88,14 @@ const Contact = () => {
                         <Typography sx={[typographyStyles, { fontFamily: "Poppins", opacity: "1", color: "#bac964" }]} variant='subtitle2'>Phone</Typography>
                         <Typography sx={typographyStyles} variant='subtitle2'>+92 336 3448425</Typography>
                     </ListItem>
-                    <ListItem style={contactDetails}>
+                    {/* <ListItem style={contactDetails}>
                         <Typography sx={[typographyStyles, { fontFamily: "Poppins", opacity: "1", color: "#bac964" }]} variant='subtitle2'>Fax</Typography>
-                        <Typography sx={typographyStyles} variant='subtitle2'>+(336) 3448425</Typography>
-                    </ListItem>
-                    <ListItem style={contactDetails}>
+                        <Typography sx={typographyStyles} variant='subtitle2'></Typography>
+                    </ListItem> */}
+                    {/* <ListItem style={contactDetails}>
                         <Typography sx={[typographyStyles, { fontFamily: "Poppins", opacity: "1", color: "#bac964" }]} variant='subtitle2'>Address</Typography>
                         <Typography sx={typographyStyles} variant='subtitle2'>Block 4, Works Cooperative Housing Society, Gulistan-e-johar, Karachi.</Typography>
-                    </ListItem>
+                    </ListItem> */}
                 </Grid>
             </Grid >
         </div>
